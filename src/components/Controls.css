@@ -1,0 +1,19 @@
+.controls {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  button.rapida {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  button.rapida:hover {
+    background-color: darkblue;
+  }
+  
